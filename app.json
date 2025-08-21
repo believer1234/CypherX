@@ -1,0 +1,18 @@
+{
+  "name": "WhatsApp Bot",
+  "description": "A WhatsApp bot by Believer",
+  "repository": "https://github.com/believer1234/CypherX.git",
+  "keywords": ["whatsapp", "bot", "baileys", "nodejs"],
+  "env": {
+    "PORT": {
+      "description": "Port for the web server",
+      "value": "3000"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
